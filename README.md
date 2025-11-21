@@ -21,7 +21,7 @@
 | Frontend | React, TypeScript, Tailwind CSS | Kanban UI and rapid, consistent styling. |
 | Backend | Node.js (Lambda Runtime) | Decoupled, event-driven microservice pattern. |
 | Data Persistence | DynamoDB | High-availability NoSQL used for persistence and logging. |
-| Deployment | Terraform, S3/CloudFront | Automated, version-controlled provisioning. |
+| Deployment | Terraform, API Gateway, S3/CloudFront | Automated, version-controlled provisioning and API routing. |
 
 ---
 
