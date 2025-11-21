@@ -19,7 +19,7 @@
 | Tier | Component | Focus |
 | :--- | :--- | :--- |
 | Frontend | React, TypeScript, Tailwind CSS | Kanban UI and rapid, consistent styling. |
-| Backend | Node.js (Lambda Runtime) | Decoupled, event-driven microservice pattern. |
+| Backend | Node.js (Lambda Runtime), Cognito | Decoupled, event-driven microservice pattern with secure user authentication. |
 | Data Persistence | DynamoDB | High-availability NoSQL used for persistence and logging. |
 | Deployment | Terraform, API Gateway, S3/CloudFront | Automated, version-controlled provisioning and API routing. |
 
